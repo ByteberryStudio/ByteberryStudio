@@ -17,8 +17,8 @@ Byteberry is run by Deepak Joshi, a frontend developer and designer. You work wi
 
 - **[Lovelysmiles](https://lovelysmiles.co)**, teeth whitening clinic in Auckland and Wellington. A booking-first WordPress redesign where clients pick a clinic and book in a couple of minutes.
 - **Beyond Skin Wellbeing**, Ayurveda and beauty studio in Wellington. A calm, considered website and brand kit.
-- **[Aurea](https://github.com/Ntoni596/Aurea-Group-Project)**, a full-stack jewellery marketplace built in a team of five, with accounts, wishlists and carts. React, Express and MongoDB.
-- **[Robot grid simulator](https://github.com/Ntoni596/SimulationOfOwl)**, a small React and TypeScript coding challenge.
+- **[Aurea](https://github.com/ByteberryStudio/Aurea-Group-Project)**, a full-stack jewellery marketplace built in a team of five, with accounts, wishlists and carts. React, Express and MongoDB.
+- **[Robot grid simulator](https://github.com/ByteberryStudio/SimulationOfOwl)**, a small React and TypeScript coding challenge.
 
 ## Tools I use
 
